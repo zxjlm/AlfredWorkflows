@@ -5,7 +5,7 @@
 
 Use [notion v1 api](https://developers.notion.com/reference/post-search) to search you notion database.  
 
-Before using this workflow, you need insure below attention points have been satisfied.  
+Before using this workflow, you need insure that attention points below have been satisfied.  
 
 - Python3 installed. The reuqests package also required.
 
